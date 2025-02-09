@@ -1,0 +1,35 @@
+RESULTADOS DE LAS VENTAS
+Costo total de ventas: $165235.37
+Tiempo de ejecución: 0.0000 segundos
+Productos vendidos:
+- Corn (1664 piezas de $13.55 c/u)
+- Cuban Sandwiche (2 piezas de $18.50 c/u)
+- French Fries (37 piezas de $18.32 c/u)
+- Fresh Blueberries (3744 piezas de $21.01 c/u)
+- Fresh Stawberry (221 piezas de $28.59 c/u)
+- Green Smoothie (580 piezas de $17.68 c/u)
+- Ground Beef Meat Burger (146 piezas de $11.73 c/u)
+- Hazelnut In Black Ceramic Bowl (7 piezas de $27.35 c/u)
+- Homemade Bread (466 piezas de $17.48 c/u)
+- Plums (1231 piezas de $19.18 c/u)
+- Raw Legums (13 piezas de $17.11 c/u)
+- Rustic Breakfast (200 piezas de $21.32 c/u)
+- Sandwich With Salad (23 piezas de $22.48 c/u)
+- Smoothie With Chia Seeds (61 piezas de $25.26 c/u)
+- Sweet Fresh Stawberry (221 piezas de $29.45 c/u)
+- Tomatoes (1 piezas de $26.03 c/u)
+Errores encontrados en los datos:
+[
+    {
+        "SALE_ID": 6,
+        "SALE_Date": "01/12/23",
+        "Product": "Elotes",
+        "Quantity": 100
+    },
+    {
+        "SALE_ID": 9,
+        "SALE_Date": "02/12/23",
+        "Product": "Frijoles",
+        "Quantity": 100
+    }
+]
